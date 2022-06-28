@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  },
   "dependencies": {
-    "body-parser": "^1.17.1",
     "express": "^4.14.0",
     "mysql": "^2.17.1",
     "nodemon": "^1.18.11"
